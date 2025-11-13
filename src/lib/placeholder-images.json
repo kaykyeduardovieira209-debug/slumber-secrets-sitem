@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "staircase",
+      "description": "A long, mysterious staircase covered in fog.",
+      "imageUrl": "https://images.unsplash.com/photo-1757211241882-fc25116f33b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdGFpcmNhc2UlMjBmb2d8ZW58MHx8fHwxNzYzMDE1ODkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "staircase fog"
+    }
+  ]
+}
